@@ -8,6 +8,5 @@ namespace Manufactures.Application.GarmentCuttingOuts.Queries
 	{
 		public List<GarmentMonitoringCuttingDto> garmentMonitorings { get; set; }
 		public int count { get; set; }
-
 	}
 }
